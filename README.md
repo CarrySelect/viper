@@ -35,7 +35,7 @@ A: Yes, this is where the development stops.
 ## See also
 
 - [venom](https://github.com/CarrySelect/venom) - My first attempt, written in C
-- [synapse](https://github.com/CarrySelect/synapse) - My second attempt, written in C
+- [synapse](https://github.com/CarrySelect/synapse) - My second attempt, written in Rust
 
 ## Licensing
 
